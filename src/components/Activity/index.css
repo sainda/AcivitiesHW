@@ -1,0 +1,43 @@
+.containerActivity{
+    height: 15rem;
+    border-radius: 15px;
+    width: 15rem;
+}
+.icon{
+    width: 2.5rem;
+
+}
+.activ{
+    border-radius: 15px;
+    height: 11rem;
+
+    background-color:rgb(29, 32, 75) ;
+    color: white;
+    padding: 1rem;
+}
+.points{
+    width: 1.5rem;
+}
+.titl{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.title{
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+.hours{
+    text-align: start;
+    margin-block-start: 0.5rem;
+    margin-block-end: 0;
+    font-size: 3.5rem;
+    text-transform: none;
+}
+.date{
+    text-align: start;
+    color: rgb(105, 108, 155);
+    margin-top: 0.5rem;
+    font-size: 1.1rem;
+
+}
